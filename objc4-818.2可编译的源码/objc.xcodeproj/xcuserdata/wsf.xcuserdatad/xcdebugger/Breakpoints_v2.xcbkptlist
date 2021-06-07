@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EEAD7928-E427-4A06-A030-A59431D6C92C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93887659-EFC6-4636-80FD-32FC1AE9A4B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-runtime-new.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7972"
+            endingLineNumber = "7972"
+            landmarkName = "_class_createInstanceFromZone(cls, extraBytes, zone, OBJECT_CONSTRUCT_NONE)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "93887659-EFC6-4636-80FD-32FC1AE9A4B0 - 25af15f5c95c47bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "class_createInstance"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsf/Desktop/objc4-818.2%E5%8F%AF%E7%BC%96%E8%AF%91%E7%9A%84%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7972"
+                  endingLineNumber = "7972"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  uuid = "93887659-EFC6-4636-80FD-32FC1AE9A4B0 - 5a69400b459423d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_objc_rootAllocWithZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsf/Desktop/objc4-818.2%E5%8F%AF%E7%BC%96%E8%AF%91%E7%9A%84%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7972"
+                  endingLineNumber = "7972"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "93887659-EFC6-4636-80FD-32FC1AE9A4B0 - eeff428cb2754566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_object_copyFromZone(objc_object*, unsigned long, void*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsf/Desktop/objc4-818.2%E5%8F%AF%E7%BC%96%E8%AF%91%E7%9A%84%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7972"
+                  endingLineNumber = "7972"
+                  offsetFromSymbolStart = "185">
+               </Location>
+               <Location
+                  uuid = "93887659-EFC6-4636-80FD-32FC1AE9A4B0 - 51894b01049185e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "class_createInstanceFromZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsf/Desktop/objc4-818.2%E5%8F%AF%E7%BC%96%E8%AF%91%E7%9A%84%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7972"
+                  endingLineNumber = "7972"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
